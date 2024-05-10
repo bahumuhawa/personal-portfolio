@@ -4,13 +4,13 @@ Welcome to my Portfolio – where innovation meets creativity. Dive into captiva
 
 ## Features
 
-**Project Showcase**: Check out my projects built with React, Vite, and Three.js. Each one includes detailed descriptions and links for demos or source code.
+**Project Showcase**: Explore my React, Vite, and Three.js projects with detailed descriptions and demo/source code links.
 
-**Interactive Design**: I create engaging interfaces for seamless navigation and exploration. Click around and discover something new!
+**Interactive Design**: Engaging interfaces for seamless exploration. Click and discover!
 
-**Performance Optimization**: My portfolio loads fast and runs smoothly, ensuring an uninterrupted browsing experience.
+**Performance Optimization**: Lightning-fast, smooth browsing experience.
 
-**Responsive Layout**: Explore my work effortlessly on any device. Whether you're on a desktop or smartphone, it's all intuitive and enjoyable.
+**Responsive Layout**: Effortless exploration on any device. Intuitive and enjoyable, from desktops to smartphones.
 
 
 ![Personal Portfolio](portfolio.png)
