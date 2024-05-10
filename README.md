@@ -20,7 +20,7 @@ Welcome to my Portfolio – where innovation meets creativity. Dive into captiva
 
 To set up the project locally, follow these steps:
 
-- Clone the repository: https://github.com/bahumuhawa/WeightTracker.git
+- Clone the repository: https://github.com/bahumuhawa/personal-portfolio
 - Navigate to the project directory: `cd project-directory`
 - Install dependencies: `npm install`
 - Start the development server: `npm run dev`
